@@ -1,0 +1,134 @@
+[
+  {
+    "repository": "github.com/JuliaLang/julia",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/JuliaLang/IJulia.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/JuliaLang/Statistics.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/JuliaLang/Pkg.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/JuliaLang/PackageCompiler.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/JuliaLang/www.julialang.org",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/JuliaPlots/Plots.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/JuliaPlots/Makie.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/JuliaGraphics/Gtk.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/plotly/Dash.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/barche/QML.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/JuliaGraphics/Luxor.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/JuliaData/DataFrames.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/apache/arrow-julia",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/joshday/OnlineStats.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/JuliaData/CSV.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/alan-turing-institute/MLJ.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/FluxML/Flux.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/denizyuret/Knet.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/SciML/DifferentialEquations.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/JuliaSIMD/LoopVectorization.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/JuliaParallel/Dagger.jl",
+    "revisions": [
+      "HEAD"
+    ]
+  }
+]
